@@ -1,6 +1,6 @@
 # Fundamentals of Molecular Simulation 2020
 
-All details for Molecular Simulation class can be found in this Github repo.
+All details for Molecular Simulation class can be found in this Github repo. 
 
 # Class
 
