@@ -1,6 +1,8 @@
 # Submit HW
 
-To receieve full credit plase submit 
+For this assignment, you may use the "upload file" tab that is in the upper right hand corner to submit your homework. 
+
+To receieve full credit plase upload the following files into this directory:
 
 `yourname.txt`
 
@@ -9,3 +11,4 @@ To receieve full credit plase submit
 `tourname_odds.txt`
 
 `yourname.sh`
+
