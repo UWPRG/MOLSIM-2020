@@ -15,7 +15,7 @@ Submit HW by Jan 15th, 9:30 AM (Before next class period)
 ```
 1.) Create a bash script that accomplishes the following tasks: 
 
-1.) For a number n which ranges from 1 to 100 perform the following conditional actions:
+For a number n which ranges from 1 to 100 perform the following conditional actions:
 
 - If n is odd, print "Odd"
 - If n is even and in the inclusive range of 5 to 9, print "Even and Blue"
