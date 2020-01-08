@@ -24,7 +24,7 @@ Submit HW by Jan 15th, 9:30 AM (Before next class period)
 
 In the same script, you will also print all odd numbers to a file called "yourname_odd.txt", and all even numbers to a  file called "yourname_even.txt" 
 
-2.) Make the script executable and direct the output to a file titled "yourname.txt" 
+2.) Make the script executable, run your script, and direct the output to a file titled "yourname.txt" 
 
-3.) Upload all three text files to github
+3.) Upload all three text files to github, as well as your script which should be titled name.sh
 ``` 
