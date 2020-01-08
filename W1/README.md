@@ -1,4 +1,4 @@
-# Introduction to Simulations 
+# Lecture #1: Introduction to Simulations & Bash
 
 In this repository 
 
