@@ -26,5 +26,5 @@ In the same script, you will also print all odd numbers to a file called "yourna
 
 2.) Make the script executable, run your script, and direct the output to a file titled "yourname.txt" 
 
-3.) Upload all three text files to github, as well as your script which should be titled `yourname.sh`
+3.) Upload all three text files to github, as well as your script which should be titled "yourname.sh"
 ``` 
