@@ -10,7 +10,7 @@ HW/
 
 # HW Assignment #1 
 
-Submit HW by Jan 15th, 9:30 AM (Before next class period)
+~Submit HW by Jan 15th, 9:30 AM (Before next class period)~
 
 ```
 1.) Create a bash script that accomplishes the following tasks: 
