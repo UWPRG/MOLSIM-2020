@@ -12,7 +12,7 @@ Room: MolES 115
 |Week #  | Date  | Topic | Instructor |
 |---|---|---|---|
 Week #1 | Jan 8th | [Introduction to Simulations](W1/) | Prof. Valleau 
-Week #2 | Jan 15th | Bash, Python, Github | Sarah
+Week #2 | Jan 15th | [Github](W2/) | Sarah
 Week #3 | Jan 22nd | Electronic Structure/Quantum Calculations | Prof. Valleau
 Week #4 | Jan 29th | Forcefields/Classical MD | Chris
 Week #5 | Feb 5th | Simulation Parameters (Thermostat/Barostats/Cutoffs)/Gromacs | Xin
