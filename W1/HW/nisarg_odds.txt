@@ -1,0 +1,451 @@
+odd numbers 99.
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+odd
+The number is 1 odd
+The number is 3 odd
+The number is 5 odd
+The number is 7 odd
+The number is 9 odd
+The number is 11 odd
+The number is 13 odd
+The number is 15 odd
+The number is 17 odd
+The number is 19 odd
+The number is 21 odd
+The number is 23 odd
+The number is 25 odd
+The number is 27 odd
+The number is 29 odd
+The number is 31 odd
+The number is 33 odd
+The number is 35 odd
+The number is 37 odd
+The number is 39 odd
+The number is 41 odd
+The number is 43 odd
+The number is 45 odd
+The number is 47 odd
+The number is 49 odd
+The number is 51 odd
+The number is 53 odd
+The number is 55 odd
+The number is 57 odd
+The number is 59 odd
+The number is 61 odd
+The number is 63 odd
+The number is 65 odd
+The number is 67 odd
+The number is 69 odd
+The number is 71 odd
+The number is 73 odd
+The number is 75 odd
+The number is 77 odd
+The number is 79 odd
+The number is 81 odd
+The number is 83 odd
+The number is 85 odd
+The number is 87 odd
+The number is 89 odd
+The number is 91 odd
+The number is 93 odd
+The number is 95 odd
+The number is 97 odd
+The number is 99 odd
+The number is 1 and odd
+The number is 3 and odd
+The number is 5 and odd
+The number is 7 and odd
+The number is 9 and odd
+The number is 11 and odd
+The number is 13 and odd
+The number is 15 and odd
+The number is 17 and odd
+The number is 19 and odd
+The number is 21 and odd
+The number is 23 and odd
+The number is 25 and odd
+The number is 27 and odd
+The number is 29 and odd
+The number is 31 and odd
+The number is 33 and odd
+The number is 35 and odd
+The number is 37 and odd
+The number is 39 and odd
+The number is 41 and odd
+The number is 43 and odd
+The number is 45 and odd
+The number is 47 and odd
+The number is 49 and odd
+The number is 51 and odd
+The number is 53 and odd
+The number is 55 and odd
+The number is 57 and odd
+The number is 59 and odd
+The number is 61 and odd
+The number is 63 and odd
+The number is 65 and odd
+The number is 67 and odd
+The number is 69 and odd
+The number is 71 and odd
+The number is 73 and odd
+The number is 75 and odd
+The number is 77 and odd
+The number is 79 and odd
+The number is 81 and odd
+The number is 83 and odd
+The number is 85 and odd
+The number is 87 and odd
+The number is 89 and odd
+The number is 91 and odd
+The number is 93 and odd
+The number is 95 and odd
+The number is 97 and odd
+The number is 99 and odd
+The number is 1 and odd
+The number is 3 and odd
+The number is 5 and odd
+The number is 7 and odd
+The number is 9 and odd
+The number is 11 and odd
+The number is 13 and odd
+The number is 15 and odd
+The number is 17 and odd
+The number is 19 and odd
+The number is 21 and odd
+The number is 23 and odd
+The number is 25 and odd
+The number is 27 and odd
+The number is 29 and odd
+The number is 31 and odd
+The number is 33 and odd
+The number is 35 and odd
+The number is 37 and odd
+The number is 39 and odd
+The number is 41 and odd
+The number is 43 and odd
+The number is 45 and odd
+The number is 47 and odd
+The number is 49 and odd
+The number is 51 and odd
+The number is 53 and odd
+The number is 55 and odd
+The number is 57 and odd
+The number is 59 and odd
+The number is 61 and odd
+The number is 63 and odd
+The number is 65 and odd
+The number is 67 and odd
+The number is 69 and odd
+The number is 71 and odd
+The number is 73 and odd
+The number is 75 and odd
+The number is 77 and odd
+The number is 79 and odd
+The number is 81 and odd
+The number is 83 and odd
+The number is 85 and odd
+The number is 87 and odd
+The number is 89 and odd
+The number is 91 and odd
+The number is 93 and odd
+The number is 95 and odd
+The number is 97 and odd
+The number is 99 and odd
+The number is 1 and odd
+The number is 3 and odd
+The number is 5 and odd
+The number is 7 and odd
+The number is 9 and odd
+The number is 11 and odd
+The number is 13 and odd
+The number is 15 and odd
+The number is 17 and odd
+The number is 19 and odd
+The number is 21 and odd
+The number is 23 and odd
+The number is 25 and odd
+The number is 27 and odd
+The number is 29 and odd
+The number is 31 and odd
+The number is 33 and odd
+The number is 35 and odd
+The number is 37 and odd
+The number is 39 and odd
+The number is 41 and odd
+The number is 43 and odd
+The number is 45 and odd
+The number is 47 and odd
+The number is 49 and odd
+The number is 51 and odd
+The number is 53 and odd
+The number is 55 and odd
+The number is 57 and odd
+The number is 59 and odd
+The number is 61 and odd
+The number is 63 and odd
+The number is 65 and odd
+The number is 67 and odd
+The number is 69 and odd
+The number is 71 and odd
+The number is 73 and odd
+The number is 75 and odd
+The number is 77 and odd
+The number is 79 and odd
+The number is 81 and odd
+The number is 83 and odd
+The number is 85 and odd
+The number is 87 and odd
+The number is 89 and odd
+The number is 91 and odd
+The number is 93 and odd
+The number is 95 and odd
+The number is 97 and odd
+The number is 99 and odd
+The number is 1 and odd
+The number is 3 and odd
+The number is 5 and odd
+The number is 7 and odd
+The number is 9 and odd
+The number is 11 and odd
+The number is 13 and odd
+The number is 15 and odd
+The number is 17 and odd
+The number is 19 and odd
+The number is 21 and odd
+The number is 23 and odd
+The number is 25 and odd
+The number is 27 and odd
+The number is 29 and odd
+The number is 31 and odd
+The number is 33 and odd
+The number is 35 and odd
+The number is 37 and odd
+The number is 39 and odd
+The number is 41 and odd
+The number is 43 and odd
+The number is 45 and odd
+The number is 47 and odd
+The number is 49 and odd
+The number is 51 and odd
+The number is 53 and odd
+The number is 55 and odd
+The number is 57 and odd
+The number is 59 and odd
+The number is 61 and odd
+The number is 63 and odd
+The number is 65 and odd
+The number is 67 and odd
+The number is 69 and odd
+The number is 71 and odd
+The number is 73 and odd
+The number is 75 and odd
+The number is 77 and odd
+The number is 79 and odd
+The number is 81 and odd
+The number is 83 and odd
+The number is 85 and odd
+The number is 87 and odd
+The number is 89 and odd
+The number is 91 and odd
+The number is 93 and odd
+The number is 95 and odd
+The number is 97 and odd
+The number is 99 and odd
+The number is 1 and odd
+The number is 3 and odd
+The number is 5 and odd
+The number is 7 and odd
+The number is 9 and odd
+The number is 11 and odd
+The number is 13 and odd
+The number is 15 and odd
+The number is 17 and odd
+The number is 19 and odd
+The number is 21 and odd
+The number is 23 and odd
+The number is 25 and odd
+The number is 27 and odd
+The number is 29 and odd
+The number is 31 and odd
+The number is 33 and odd
+The number is 35 and odd
+The number is 37 and odd
+The number is 39 and odd
+The number is 41 and odd
+The number is 43 and odd
+The number is 45 and odd
+The number is 47 and odd
+The number is 49 and odd
+The number is 51 and odd
+The number is 53 and odd
+The number is 55 and odd
+The number is 57 and odd
+The number is 59 and odd
+The number is 61 and odd
+The number is 63 and odd
+The number is 65 and odd
+The number is 67 and odd
+The number is 69 and odd
+The number is 71 and odd
+The number is 73 and odd
+The number is 75 and odd
+The number is 77 and odd
+The number is 79 and odd
+The number is 81 and odd
+The number is 83 and odd
+The number is 85 and odd
+The number is 87 and odd
+The number is 89 and odd
+The number is 91 and odd
+The number is 93 and odd
+The number is 95 and odd
+The number is 97 and odd
+The number is 99 and odd
+The number is 1 and odd
+The number is 3 and odd
+The number is 5 and odd
+The number is 7 and odd
+The number is 9 and odd
+The number is 11 and odd
+The number is 13 and odd
+The number is 15 and odd
+The number is 17 and odd
+The number is 19 and odd
+The number is 21 and odd
+The number is 23 and odd
+The number is 25 and odd
+The number is 27 and odd
+The number is 29 and odd
+The number is 31 and odd
+The number is 33 and odd
+The number is 35 and odd
+The number is 37 and odd
+The number is 39 and odd
+The number is 41 and odd
+The number is 43 and odd
+The number is 45 and odd
+The number is 47 and odd
+The number is 49 and odd
+The number is 51 and odd
+The number is 53 and odd
+The number is 55 and odd
+The number is 57 and odd
+The number is 59 and odd
+The number is 61 and odd
+The number is 63 and odd
+The number is 65 and odd
+The number is 67 and odd
+The number is 69 and odd
+The number is 71 and odd
+The number is 73 and odd
+The number is 75 and odd
+The number is 77 and odd
+The number is 79 and odd
+The number is 81 and odd
+The number is 83 and odd
+The number is 85 and odd
+The number is 87 and odd
+The number is 89 and odd
+The number is 91 and odd
+The number is 93 and odd
+The number is 95 and odd
+The number is 97 and odd
+The number is 99 and odd
