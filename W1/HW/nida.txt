@@ -1,0 +1,78 @@
+1 	 Odd
+3 	 Odd
+5 	 Odd
+6 	 Even and Blue
+7 	 Odd
+8 	 Even and Blue
+9 	 Odd
+10 	 Even and Red
+11 	 Odd
+12 	 Even and Red
+13 	 Odd
+14 	 Even and Red
+15 	 Odd
+16 	 Even and Red
+17 	 Odd
+18 	 Even and Red
+19 	 Odd
+20 	 Even and Red
+21 	 Odd
+23 	 Odd
+25 	 Odd
+27 	 Odd
+29 	 Odd
+31 	 Odd
+33 	 Odd
+35 	 Odd
+37 	 Odd
+39 	 Odd
+41 	 Odd
+43 	 Odd
+45 	 Odd
+47 	 Odd
+49 	 Odd
+51 	 Odd
+53 	 Odd
+55 	 Odd
+57 	 Odd
+59 	 Odd
+61 	 Odd
+62 	 Potato
+63 	 Odd
+64 	 Potato
+65 	 Odd
+66 	 Potato
+67 	 Odd
+68 	 Potato
+69 	 Odd
+70 	 Potato
+71 	 Odd
+72 	 Potato
+73 	 Odd
+74 	 Potato
+75 	 Odd
+76 	 Potato
+77 	 Odd
+78 	 Potato
+79 	 Odd
+80 	 Potato
+81 	 Odd
+82 	 Potato
+83 	 Odd
+84 	 Potato
+85 	 Odd
+86 	 Potato
+87 	 Odd
+88 	 Potato
+89 	 Odd
+90 	 Potato
+91 	 Odd
+92 	 Potato
+93 	 Odd
+94 	 Potato
+95 	 Odd
+96 	 Potato
+97 	 Odd
+98 	 Potato
+99 	 Odd
+100 	 Potato
