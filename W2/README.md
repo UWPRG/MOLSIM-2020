@@ -4,7 +4,7 @@ In this repository
 
 ```
 Lecture/
-
+```
 # HW Assignment #2
 
 Submit HW before next class period
