@@ -10,7 +10,7 @@ HW/
 
 # HW Assignment #2
 
-~Submit HW before next class period~
+Submit HW before next class period
 
 ```
 1.) Upload your homework from last week to github using a pull-request! (you can use branches or forks) whatever floats your boat 
