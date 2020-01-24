@@ -15,7 +15,9 @@ Answer the following questions and the following calculations, and upload your f
 ith your name in the title to github using a pull request
 
 ```
-1.) Conduct a geometry optimization for methane using the following levels of theory:i. HF/STO3G 
+1.) Conduct a geometry optimization for methane using the following levels of theory:
+
+i. HF/STO3G 
 ii. HF/3-21G* 
 iii. HF/3-21G**
 iv. B3LYP/3-21G*
