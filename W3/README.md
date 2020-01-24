@@ -1,6 +1,6 @@
 # Lecture #2: Introduction to Github
 
-In this repository 
+In this repository: 
 
 ```
 Lecture/
