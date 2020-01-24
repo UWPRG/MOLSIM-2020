@@ -11,8 +11,7 @@ Homework/
 
 Submit HW before next Friday (1/31/2020) at 11:59 PM 
 
-Answer the following questions and the following calculations, and upload your file w
-ith your name in the title to github using a pull request
+Answer the following questions and the following calculations, and upload your file with your name in the title to github using a pull request
 
 ```
 1.) Conduct a geometry optimization for methane using the following levels of theory:
