@@ -20,3 +20,5 @@ It will loaad the Lennard-Jones simulation.
 On the website, there is a "THINGS TO TRY" section. Please submit a file (.doc, .txt, .md files are fine) that answer the 4 questions in the "Things to try in the model". You do not have to do the "Things to try outside the model to explore the Lennard-jones potential." 
 
 Please upload files in the HW directory
+
+HW is due NEXT THURSDAY 02/06/2020
