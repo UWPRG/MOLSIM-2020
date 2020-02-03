@@ -1,0 +1,19 @@
+1). Running the system with 65 particles at a density of 0.25. The temperature
+was raised and the particles were observed to remain in a packed structure until
+the temperature was ~0.3. At this point the spacing between neighbors began to
+significantly differ between timesteps, this is assumed to be liquid. The particles remain mostly in a clust together until a temperature of ~0.55 at which point they disperse and do not really maintain any sort of structure.
+
+2). When the system does not start in a packed arrangement, it is very difficult to
+get all particles into one solid. From a mobile (high temperature) state, if the
+temperature is reduced to quickly the particles will form seperate clusters without
+the energy required to reach eachother. Instead the temperature has to be lessened very slowly and methodically to allow the particles to transition into clustering together.
+This way they go through a state where they begin to clump but still have the energy required to reach other clumps.
+
+3). The lowest emergy per particle can be achieved at highest density and a low number of particles
+~50 at low temperature. The energy is very variant based on the random initial starting postition,
+I think due to the shape of the clusters forming. For this reason I don't think using a small system is representative. 
+At a large number of particles there is a much shorter variance, and is more representative (averages out outlier). This more representative value of lowest energy (N = 1000, density =max, temperature =min) is about -30/poarticle.
+
+4). Yes, it takes a higher temperature to liquify the system with many atoms, this is
+because for a large system there is more energy associated with packing, and with
+many atoms the overall tendancy to cluster is higher.
