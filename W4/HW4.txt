@@ -1,0 +1,10 @@
+MolSim 2020 Homework 4
+Kaylyn Torkelson
+
+1. My starting point simulation was 150 atoms with a density of 0.25. Starting from the lowest initial temperature, the atoms retain the HCP solid structure until a temperature of around ~0.35. At this point, the atoms on the outside of the structure start to move further away and lose the even spacing of the starting structure, signifying a liquid. At a temperature of around ~0.55, the atoms start to move around totally randomly and don't stay close to each other, signifying a gas.
+
+2. I don't think it's possible to get a perfect HCP structure starting from the random initial configuration. If you increase the temperature of the random configuration and then slowly lower the temperature, the atoms will start to form pockets of 6 neighbors, because that's the lowest energy configuration. It's really hard to get all the pockets of 6 neighbors to solidify together.
+
+3. The lowest energy usually happens at low temperature and high density. With the low temperature, the atom is more likely to remain in the lowest energy starting configuration, so most of the atoms stay in the HCP structure. The high particle density also means that most atoms want to keep their 6 neighbor packing as well.
+
+4. Models with few atoms and models with many atoms can still achieve the liquid and gas states around the same temperatures regardless of number, it just might take more time to visualize the state change through all of the atoms. It would take more energy to liquify the higher number of atoms in the same amount of time as the small number (I think). 
