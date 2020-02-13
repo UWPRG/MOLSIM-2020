@@ -1,0 +1,42 @@
+# This file was created Thu Feb 13 15:01:14 2020
+# Created by:
+#                  :-) GROMACS - gmx energy, VERSION 5.1.4 (-:
+# 
+# Executable:   /sw/contrib/gromacs-5.1.4-with-plumed-2.4.3-with-impi/gromacs-5.1.4-with-plumed-2.4.3-withimpi//bin/gmx_mpi
+# Data prefix:  /sw/contrib/gromacs-5.1.4-with-plumed-2.4.3-with-impi/gromacs-5.1.4-with-plumed-2.4.3-withimpi/
+# Command line:
+#   gmx_mpi energy -f prod_nvt.edr -o p_prod.xvg
+# gmx energy is part of G R O M A C S:
+#
+# Gallium Rubidium Oxygen Manganese Argon Carbon Silicon
+#
+@    title "GROMACS Energies"
+@    xaxis  label "Time (ps)"
+@    yaxis  label "(bar)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Pressure"
+    0.000000  -42.192032
+    1.000000  -110.552986
+    2.000000  -35.993484
+    3.000000   77.213531
+    4.000000    1.400360
+    5.000000  -107.840477
+    6.000000  -115.066460
+    7.000000  -43.110744
+    8.000000  -110.487000
+    9.000000  -28.393560
+   10.000000   13.595088
+   11.000000  -206.771851
+   12.000000  133.795746
+   13.000000   28.963409
+   14.000000  127.840424
+   15.000000  197.861572
+   16.000000  -114.958549
+   17.000000   34.442883
+   17.040000   57.752422

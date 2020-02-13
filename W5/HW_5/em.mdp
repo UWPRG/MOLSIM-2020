@@ -1,0 +1,25 @@
+;       Energy Minimization Script
+;
+;
+constraints     = none
+integrator      = steep
+;define = -DFLEXIBLE ; use it together with cg if water is present
+nsteps          = 200000
+;
+;       Energy Minimizing Parameters
+;
+emtol          = 500          ; convergence total force(kJ/mol/nm) is smaller than
+periodic-molecules	= yes
+emstep          = 0.001         ; initial step size 
+ns_type         = grid
+rlist           = 1.0          ; cut-off distance for short range neighbors
+rcoulomb        = 1.0           ; distance for coulomb cut-off
+coulombtype     = PME           ; electrostatics (Particle Mesh Ewald method)
+fourierspacing  = 0.06          ; max grid spacing when using PPPM or PME
+cutoff-scheme	=verlet
+vdwtype        = Shift
+rvdw            = 1.0           ; VDW cut-off
+Tcoupl          = no            ; temperature coupling
+Pcoupl          = no            ; pressure coupling
+gen_vel         = no
+pbc 		= xyz
