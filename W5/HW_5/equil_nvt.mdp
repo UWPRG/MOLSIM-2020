@@ -1,0 +1,69 @@
+;
+;	GROMACS
+;	Input for an NPT equilibration
+;
+;
+; Initialization
+integrator		=  md-vv       ; use this with the Nose-Hoover thermostat
+define          = -DFLEXIBLE   ; to use the selected water .itp
+tinit           = 0.000   ; reset the initial timestep to 0
+nsteps			=  100000 ; equilibrate in NVT ensemble for 0.1 ns
+dt			    =  0.001 ; set timestep as 1 fs
+;
+;
+; Output Control 
+nstlog			= 1000    ; output readable log file
+nstenergy		= 1000    ; output binary energy file
+nstxout			= 1000    ; output binary trajectory file
+nstvout			= 0       ; suppress velocity output
+nstfout			= 1000    ; output binary force file
+;
+; Neighbour Searching
+cutoff-scheme   = Verlet  ; choose the Verlet list scheme
+nstlist			= 10      ; update verlet list every 10 timesteps
+ns_type			= grid
+pbc			    = xyz
+rlist			= 1.30     ;usually the same as rcoulomb           
+;
+; Electrostatic
+rcoulomb		= 1.20
+coulombtype		= PME
+fourierspacing	= 0.08
+ewald_rtol		= 1e-06
+ewald_geometry	= 3d
+;
+;
+; VdW --> this combination is a special treatment for Charmm
+vdwtype         = Cut-off 
+vdw-modifier    = potential-switch
+rvdw-switch     = 1.0           ; VDW inner cut-off
+rvdw            = 1.2           ; VDW outer cut-off
+DispCorr        = no
+;
+;
+; Constraints -- the entire section has been commented out so that no constraint is put on the system
+; Lincs will write a warning to the stderr if in one step a bond
+; rotates over more degrees than
+;lincs-warnangle         = 90
+;constraints            = h-bonds 
+;constraint-algorithm    = lincs
+;lincs_iter              = 12
+;lincs-order             = 8
+;
+;
+; Initial Velocities
+gen_vel			= yes
+gen_temp		= 298.0
+gen_seed		= 93874
+;
+; Pressure
+Pcoupl                  = no
+;
+; Temperature
+Tcoupl                  = nose-hoover  ; If you want to collect data under nose-hoover thermostat coupling, you need to equilibrate the system using nose-hoover thermostat before collecting data. 
+tc_grps                 = system
+tau_t                   = 0.2
+ref_t                   = 298
+;
+;
+
