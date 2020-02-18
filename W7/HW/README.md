@@ -1,4 +1,4 @@
-# Homework - Week 3
+# Homework - Week 7
 
 In this homework, you will perform a scaling analysis for a relatively large system of lysozyme in water `http://www.mdtutorials.com/gmx/lysozyme/`.
 
