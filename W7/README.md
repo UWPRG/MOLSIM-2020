@@ -1,4 +1,4 @@
-# Trajectory Analysis
+# Parallel Computing
 
 In this repository 
 
