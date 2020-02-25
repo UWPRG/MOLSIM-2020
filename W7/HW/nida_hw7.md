@@ -1,5 +1,5 @@
-Nida Janulaitis
-2-25-20
+Nida Janulaitis \
+2-25-20 \
 Molsim HW7: parallel computing
 ![Table 1](hw7img.png)
 
