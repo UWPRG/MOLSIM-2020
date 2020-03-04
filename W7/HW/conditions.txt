@@ -1,0 +1,19 @@
+want ns/day/walker and total ns/day 
+
+line, walkers, nodes, ranks/walker, threads/rank
+
+line1  1 1 1  1 
+line2  1 1 2  1 
+line3  1 1 4  1 
+line4  1 1 8  1 
+line5  1 1 16 1  
+line6  1 1 8  2 
+line7  1 1 4  4 
+line8  1 1 2  8 
+line9  1 1 1  16 
+line10 2 1 8  1
+line11 4 1 4  1
+line12 8 1 2  1
+line13 2 2 16 1 
+line14 4 2 8  1
+line15 8 2 4  1  
