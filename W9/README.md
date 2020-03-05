@@ -1,9 +1,9 @@
 # Final Projects 
 
-In this repository 
+Due March 19th 11:59 PM 
 
-Lecture/
-Reading/
-HW/ 
+Please upload all files to W9/ in a new directory title HW_yourname/
+
+
 
   
