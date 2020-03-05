@@ -17,10 +17,10 @@ Week #3 | Jan 22nd | [Electronic Structure/Quantum Calculations](W3/) | Prof. Va
 Week #4 | Jan 29th | [Forcefields/Classical MD](W4/) | Chris
 Week #5 | Feb 5th | [Simulation Parameters (Thermostat/Barostats/Cutoffs)/Gromacs](W5/) | Xin
 Week #6 | Feb 12th | [VMD / Visualization](W6/) | Sarah
-Week #7 | Feb 19th | Parallel Computing | Chowdhury
-Week #8 | Feb 26th | Trajectory Analysis (RDF/RMSD/Autocorrelation) | Janani
-Week #9 | March 4th | Final Projects | Sarah
-Week #10 | March 11th | Master Equations | Prof. Valleau
+Week #7 | Feb 19th | [Parallel Computing](W7/) | Chowdhury
+Week #8 | Feb 26th | [Trajectory Analysis (RDF/RMSD/Autocorrelation)](W8/)  | Janani
+Week #9 | March 4th | [Final Projects](W9/)  | Sarah
+Week #10 | March 11th | [Master Equations](W10/)  | Prof. Valleau
 
 Final Projects due during Finals Week
 
