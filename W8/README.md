@@ -1,9 +1,7 @@
-# Parallel Computing 
+# Trajectory Analysis  
 
-In this repository 
+See attatched slides for HW 
 
-Lecture/
-Reading/
-HW/ 
+HW due March 13th! 
 
   
