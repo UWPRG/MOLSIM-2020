@@ -20,7 +20,7 @@ Week #6 | Feb 12th | [VMD / Visualization](W6/) | Sarah
 Week #7 | Feb 19th | [Parallel Computing](W7/) | Chowdhury
 Week #8 | Feb 26th | [Trajectory Analysis (RDF/RMSD/Autocorrelation)](W8/)  | Janani
 Week #9 | March 4th | [Final Projects](W9/)  | Sarah
-Week #10 | March 11th | [Master Equations](W10/)  | Prof. Valleau
+Week #10 | March 11th | ~Master Equations~  | COVID-19
 
 Final Projects due during Finals Week
 
