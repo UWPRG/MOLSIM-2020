@@ -1,0 +1,73 @@
+# This file was created Mon Mar  9 13:32:39 2020
+# Created by:
+#                  :-) GROMACS - gmx density, VERSION 5.1.4 (-:
+# 
+# Executable:   /sw/contrib/gromacs-5.1.4-with-plumed-2.4.3-with-impi/gromacs-5.1.4-with-plumed-2.4.3-withimpi//bin/gmx_mpi
+# Data prefix:  /sw/contrib/gromacs-5.1.4-with-plumed-2.4.3-with-impi/gromacs-5.1.4-with-plumed-2.4.3-withimpi/
+# Command line:
+#   gmx_mpi density -f prod_nvt.trr -s prod_nvt.tpr -o 273_D.xvg
+# gmx density is part of G R O M A C S:
+#
+# Georgetown Riga Oslo Madrid Amsterdam Chisinau Stockholm
+#
+@    title "Partial density"
+@    xaxis  label "Coordinate (nm)"
+@    yaxis  label "Density (kg m\S-3\N)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Water_and_ions"
+   0.0295709          917.617
+   0.0887127          908.268
+    0.147855          901.856
+    0.206996          888.735
+    0.266138          878.005
+     0.32528          863.123
+    0.384422          860.997
+    0.443563          852.892
+    0.502705          849.607
+    0.561847          835.039
+    0.620989          836.027
+    0.680131          830.685
+    0.739272          831.461
+    0.798414          831.069
+    0.857556          828.805
+    0.916698          829.449
+     0.97584          830.077
+     1.03498          835.304
+     1.09412          841.699
+     1.15327          847.694
+     1.21241          855.248
+     1.27155          864.973
+     1.33069          877.188
+     1.38983          881.824
+     1.44897          892.299
+     1.50812          894.259
+     1.56726           899.63
+      1.6264          910.594
+     1.68554          922.343
+     1.74468          926.625
+     1.80382          938.713
+     1.86297          940.991
+     1.92211          953.495
+     1.98125          966.092
+     2.04039          966.479
+     2.09953           974.31
+     2.15868          977.299
+     2.21782          985.541
+     2.27696          989.812
+      2.3361          989.709
+     2.39524          987.202
+     2.45438          988.003
+     2.51353          986.234
+     2.57267          977.964
+     2.63181           975.06
+     2.69095          964.106
+     2.75009          957.634
+     2.80924          948.412
+     2.86838          938.711
+     2.92752          921.332

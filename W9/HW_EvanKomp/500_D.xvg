@@ -1,0 +1,73 @@
+# This file was created Mon Mar  9 13:26:39 2020
+# Created by:
+#                  :-) GROMACS - gmx density, VERSION 5.1.4 (-:
+# 
+# Executable:   /sw/contrib/gromacs-5.1.4-with-plumed-2.4.3-with-impi/gromacs-5.1.4-with-plumed-2.4.3-withimpi//bin/gmx_mpi
+# Data prefix:  /sw/contrib/gromacs-5.1.4-with-plumed-2.4.3-with-impi/gromacs-5.1.4-with-plumed-2.4.3-withimpi/
+# Command line:
+#   gmx_mpi density -f prod_nvt.trr -s prod_nvt.tpr -o 500_D.xvg
+# gmx density is part of G R O M A C S:
+#
+# Gromacs Runs One Microsecond At Cannonball Speeds
+#
+@    title "Partial density"
+@    xaxis  label "Coordinate (nm)"
+@    yaxis  label "Density (kg m\S-3\N)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Water_and_ions"
+   0.0295287          949.645
+   0.0885861          950.605
+    0.147644          953.278
+    0.206701          950.576
+    0.265758           950.09
+    0.324816          943.909
+    0.383873          943.681
+     0.44293          941.796
+    0.501988          933.282
+    0.561045          928.845
+    0.620103          923.757
+     0.67916          916.446
+    0.738217          907.694
+    0.797275          904.416
+    0.856332          904.737
+     0.91539          900.383
+    0.974447           892.86
+      1.0335          892.044
+     1.09256          891.937
+     1.15162          891.306
+     1.21068          886.744
+     1.26973          883.144
+     1.32879          883.267
+     1.38785           882.51
+     1.44691          878.732
+     1.50596          876.125
+     1.56502          878.469
+     1.62408          881.045
+     1.68314          880.965
+     1.74219          878.933
+     1.80125          880.809
+     1.86031          885.143
+     1.91937          882.674
+     1.97842          886.056
+     2.03748           886.43
+     2.09654          896.876
+      2.1556          891.225
+     2.21465          899.722
+     2.27371          900.449
+     2.33277          907.787
+     2.39182          917.332
+     2.45088          918.201
+     2.50994          924.075
+       2.569          929.021
+     2.62805          934.373
+     2.68711          939.034
+     2.74617          941.059
+     2.80523           946.06
+     2.86428           945.32
+     2.92334          952.335
