@@ -1,0 +1,10 @@
+MolSim HW 8 
+Kaylyn Torkelson
+
+1. The secondary structure of the protein is a helix.
+
+2.a. Plot between LYS and LEU attached as PNG.
+
+b. Plot between SOL and SOL attached as PNG. The SOL-SOL plot looks like the radial distribution function for a liquid, with the first peak probably corresponding to interactions between the closest water molecules.
+
+Bonus: ii is the result of block averaging i (maybe?) ... it removes the noise associated with graph i but doesn't limit the amount of data that was collected...could be totally wrong, and I'm also not sure how many blocks/what the size of the blocks were.
