@@ -1,0 +1,5 @@
+The protein has a helical structure.
+
+From the SOL-SOL g(r) the first peak: I assume that it is the result of hydrogen bonding. Given that the solvent is water, it would make sense that there is a big probability of finding other waters clustered around it, then another smaller peak, but since it is a liquid this is not repetative for long and it levels out into bulk probability.
+
+Bonus: I feel like plot ii, the first option, has to be the block average. It has the same magnitude of values at a given tau as the original... which is ideal. It averages out noise but it shouldn't take away from the overall results.
