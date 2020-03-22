@@ -1,0 +1,74 @@
+# This file was created Thu Mar 19 22:53:16 2020
+# Created by:
+#                     :-) GROMACS - gmx density, 2018.3 (-:
+# 
+# Executable:   /gscratch/pfaendtner/sarah/codes/gromacs18.3/gromacs-2018.3/bin/bin/gmx_mpi
+# Data prefix:  /gscratch/pfaendtner/sarah/codes/gromacs18.3/gromacs-2018.3/bin
+# Working dir:  /gscratch/pfaendtner/dacj/MOLSIM-2020/W9/dave_hw9_copy/part4_273
+# Command line:
+#   gmx_mpi density -f 273_nvt.trr -o 273_density.xvg -s 273_nvt.tpr
+# gmx density is part of G R O M A C S:
+#
+# GROup of MAchos and Cynical Suckers
+#
+@    title "Partial density"
+@    xaxis  label "Coordinate (nm)"
+@    yaxis  label "Density (kg m\S-3\N)"
+@TYPE xy
+@ view 0.15, 0.15, 0.75, 0.85
+@ legend on
+@ legend box on
+@ legend loctype view
+@ legend 0.78, 0.8
+@ legend length 2
+@ s0 legend "Water"
+   0.0398868          975.875
+     0.11966          973.703
+    0.199434          973.596
+    0.279208          971.612
+    0.358981          972.878
+    0.438755           969.65
+    0.518528          970.223
+    0.598302          970.854
+    0.678076          965.975
+    0.757849          961.534
+    0.837623           967.04
+    0.917396          964.406
+     0.99717          956.934
+     1.07694          958.984
+     1.15672          958.447
+     1.23649          957.125
+     1.31626           955.91
+     1.39604          955.375
+     1.47581          957.179
+     1.55559          955.509
+     1.63536          958.194
+     1.71513          956.054
+     1.79491          960.349
+     1.87468          959.267
+     1.95445          965.178
+     2.03423          966.794
+       2.114          970.561
+     2.19377          973.667
+     2.27355          976.518
+     2.35332          981.472
+     2.43309          982.749
+     2.51287           983.44
+     2.59264          986.888
+     2.67242           987.33
+     2.75219          986.265
+     2.83196          989.216
+     2.91174          986.989
+     2.99151          986.026
+     3.07128          986.991
+     3.15106          984.338
+     3.23083           987.33
+      3.3106          983.153
+     3.39038          983.298
+     3.47015          980.334
+     3.54993          980.953
+      3.6297          980.727
+     3.70947          978.437
+     3.78925          979.838
+     3.86902          977.056
+     3.94879          976.085
